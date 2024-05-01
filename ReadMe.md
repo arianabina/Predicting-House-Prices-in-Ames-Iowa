@@ -1,4 +1,4 @@
-## Project 2 - Ames Housing Data and Kaggle Challenge
+## Ames Housing Data and Kaggle Challenge
 
 This project was completed for an immersive data science program at General Assemby. The project required developing a machine learning model to predict housing sale prices. I will be using the popular housing dataset from Ames, Iowa. The particular version of that dataset we were given contained over 1,500 entries of homes sold from 2006 to 2010 with about 80 descriptive features involved in assessing home values. I performed a comprehensive exploration of the data to understand the relationships among features to sale price, as well as identified any skewness, outliers, and missing values. Then, after cleaning the data and undergoing feature selection, I created a machine learning model to predict house sale prices. I utilized linear regression as well as lasso and ridge. The model's efficacy will be evaluated using root mean squared error (RMSE), a metric gauging the disparity between predicted and observed values.
 
